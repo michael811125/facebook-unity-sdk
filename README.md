@@ -12,7 +12,7 @@ This repository makes it possible to use [facebook-sdk-for-unity](https://github
   {
     "dependencies": {
       "com.google.external-dependency-manager": "1.2.160",
-      "com.facebook-sdk.unity": "https://github.com/unfilet/facebook-unity-sdk.git#8.1.0"
+      "com.facebook-sdk.unity": "https://github.com/unfilet/facebook-unity-sdk.git#9.0.0"
     },
     "scopedRegistries": [
     {
