@@ -11,18 +11,8 @@ This repository makes it possible to use [facebook-sdk-for-unity](https://github
   ```json
   {
     "dependencies": {
-      "com.google.external-dependency-manager": "1.2.160",
       "com.facebook-sdk.unity": "https://github.com/unfilet/facebook-unity-sdk.git#9.0.0"
-    },
-    "scopedRegistries": [
-    {
-      "name": "Game Package Registry by Google",
-      "url": "https://unityregistry-pa.googleapis.com",
-      "scopes": [
-        "com.google"
-      ]
     }
-    ]
   }
   ```
 
